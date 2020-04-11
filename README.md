@@ -65,3 +65,5 @@ Your goal is to mine at least 16 coins.  Keep in mind that with many people comp
 
 ## Grading
 The grade for this sprint challenge is the average of the number of points received (points/15)
+
+
